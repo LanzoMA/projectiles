@@ -1,0 +1,3 @@
+/home/lanzo/repos/cpp-programs/projectile-motion/build/CMakeFiles/projectiles.dir
+/home/lanzo/repos/cpp-programs/projectile-motion/build/CMakeFiles/edit_cache.dir
+/home/lanzo/repos/cpp-programs/projectile-motion/build/CMakeFiles/rebuild_cache.dir

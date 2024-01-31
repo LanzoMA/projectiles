@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/projectiles.dir/src/main.cpp.o CMakeFiles/projectiles.dir/src/particle.cpp.o CMakeFiles/projectiles.dir/src/simulation.cpp.o -o projectiles  -lsfml-graphics -lsfml-window -lsfml-system 
